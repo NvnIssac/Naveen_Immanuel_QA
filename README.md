@@ -4,6 +4,9 @@ WebPage_Test_SDET_Challenge
 The Test Framework for testing the Ormuco portal.
 Python Language was used to build this framework using Selenium as the tool. Since Selenium can support both Javascript and Python. Added its an open source tool for testing such portals.
 
+Prerequisite:
+Selenium Webdriver,xlrd and other libraries need to be installed beforehand running the test suite.
+
 Test Framework is built in below hierarchical format:
 
 
