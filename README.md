@@ -5,6 +5,8 @@ The Test Framework for testing the Ormuco portal.
 Python Language was used to build this framework using Selenium as the tool. Since Selenium can support both Javascript and Python. Added its an open source tool for testing such portals.
 
 Test Framework is built in below hierarchical format:
+
+
 --> Data
 This Folder contains all the input data related files/contents in it.
 Contains Following Files in it.
