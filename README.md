@@ -35,6 +35,8 @@ Python Script that handles home page initialization, assigning values and findin
 Contains Test Suite for Test Case Validation. Currently single test case for validating the invalid email/password login has been written using unittest suite format.
 1) Test01_Chrome_InvalidLogin
 Test Case to validate all the possible input datas fetched from Input data and validate the invalid login form in the portal.
+--> Test Case to validate Warning MEssage when no value entered in USername/PAssword
+--> Test Case to Validate Invalid Format(like onlu alphabets or alphanumerics or ultiple special characters etc) and validate warning messages
 
 -->Result
 This Directory Consists of Test Results post test execution. We have the test result screenshots been saved, test results for each test logged and reported in text format.
